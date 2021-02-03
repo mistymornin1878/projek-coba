@@ -1,3 +1,5 @@
 Ujicoba
 - Pertama menggunakan Github
 - Tutorial dari channel Youtube Web Programming Unpas
+- Agar bisa memahami lingkup Github
+- Next ke Git
