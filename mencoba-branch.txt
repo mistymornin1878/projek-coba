@@ -2,4 +2,6 @@ Ini adalah branch
 
 merupakan cabang untuk main/master
 menggunakan metode merge
-tidak mengganggu main/master nya
+bababa
+baba
+ba
